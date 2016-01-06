@@ -19,20 +19,10 @@ end
 if yes || yes1 = true
   put=begin
 end
-s "Sam and Sally should get married."
+  puts "Sam and Sally should get married."
 end 
   
 
-  
 
 
 
-
-
-=begin
-If Sam can cook more than 10 recipes and 
-Sally speaks more than 5 languages, 
-they should date. 
-If Sam can make crepes or 
-Sally can speak French, 
-they should marry. =end
